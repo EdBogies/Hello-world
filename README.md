@@ -1,7 +1,7 @@
 # Hello-world
 Just a repositorty name
 
-Hi Humans,
+Hi Everyone,
 
-Ed here. I'm building a Home made flight Sim. I'm using raspberry PI and Python to build instruments.
+I'm try to build a DIY Flight Sim. I'm using raspberry PI's and Python to build instruments.
 I hope to learn from you.
